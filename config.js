@@ -56,14 +56,14 @@ const CONFIG = {
   // ── 마음 전하실 곳 ──
   accounts: {
     groom: [
-      { role: "고종필", bank: "국민은행", number: "662602-04-044390" },
-      { role: "고성원", bank: "국민은행", number: "600225-01-051491" },
-      { role: "정명자", bank: "농협은행", number: "216023-52-300607" }
+      { role: "고종필", bank: "국민", number: "662602-04-044390" },
+      { role: "고성원", bank: "국민", number: "600225-01-051491" },
+      { role: "정명자", bank: "농협", number: "216023-52-300607" }
     ],
     bride: [
-      { role: "김보미", bank: "OO은행", number: "00000-0000-00" },
-      { role: "김용환", bank: "OO은행", number: "000000-00-000000" },
-      { role: "김애진", bank: "OO은행", number: "000-00-000000-0" }
+      { role: "김보미", bank: "신한", number: "110-135-066705" },
+      { role: "김용환", bank: "OO", number: "000000-00-000000" },
+      { role: "김애진", bank: "신한", number: "110-037-960240" }
     ]
   },
 
